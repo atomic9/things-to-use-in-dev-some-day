@@ -20,3 +20,5 @@ if(Input.GetKeyDown(Keycode.S))
    MoveCommand command = new MoveCommand(transform);
    command.Execute();
 }
+
+######
